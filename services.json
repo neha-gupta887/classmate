@@ -1,0 +1,90 @@
+{
+  "services": [
+    {
+      "id": "svc-assignment-help",
+      "title": "Assignment Help",
+      "slug": "assignment-help",
+      "shortDescription": "Well-researched, subject-specific assignment support with proper structure and referencing.",
+      "fullDescription": "Get help understanding your assignment brief, structuring your answer, and polishing the final write-up. Share your assignment question, subject, word limit, and university formatting guidelines, and get a draft you can review, learn from, and submit in your own words.",
+      "category": "Academic Support",
+      "subject": "Any subject",
+      "pricingType": "quote",
+      "deliveryHours": 24,
+      "requirements": "Assignment question/PDF\nSubject and course code\nWord limit\nFormatting style (APA/MLA/university format)\nDeadline",
+      "instructions": "Please share the exact assignment brief and your university's submission guidelines so the work matches what your instructor expects. This service is meant to support your learning, not to replace it -- please review and understand the content before submitting.",
+      "active": true,
+      "createdAt": "2026-09-01T09:00:00.000Z"
+    },
+    {
+      "id": "svc-project-help",
+      "title": "Project Help",
+      "slug": "project-help",
+      "shortDescription": "Guidance and hands-on support for academic mini/major projects, reports, and presentations.",
+      "fullDescription": "Support for semester mini-projects and major projects -- from topic selection and synopsis writing to report structuring, code/documentation review, and presentation slides. Suited for engineering, management, and computer science project submissions.",
+      "category": "Academic Support",
+      "subject": "Any subject",
+      "pricingType": "quote",
+      "deliveryHours": 48,
+      "requirements": "Project topic or domain\nCourse/branch and semester\nGuidelines/rubric from your department\nAny existing work already done",
+      "instructions": "Share as much detail as you can about what your project needs to cover. Pricing depends on project scope, so a quote will be shared after reviewing your requirements.",
+      "active": true,
+      "createdAt": "2026-09-01T09:05:00.000Z"
+    },
+    {
+      "id": "svc-subject-help",
+      "title": "Subject Help / Doubt Solving",
+      "slug": "subject-help",
+      "shortDescription": "Topic-wise explanations and exam-prep support across core university subjects.",
+      "fullDescription": "One-on-one help understanding tricky topics, solving numericals, and preparing for internal exams, quizzes, and vivas. Tell us your subject and specific chapters or doubts, and get clear, exam-focused explanations.",
+      "category": "Academic Support",
+      "subject": "Any subject",
+      "pricingType": "quote",
+      "requirements": "Subject name and topic/chapter\nSpecific doubts or questions\nPreferred timing for a session (if live)",
+      "instructions": "Let us know whether you'd prefer written explanations or a live doubt-solving session, and we'll confirm availability and pricing accordingly.",
+      "active": true,
+      "createdAt": "2026-09-01T09:10:00.000Z"
+    },
+    {
+      "id": "svc-coursera-course-help",
+      "title": "Coursera Course Completion Help",
+      "slug": "coursera-course-help",
+      "shortDescription": "Support completing Coursera courses, graded quizzes, and peer-reviewed assignments.",
+      "fullDescription": "Help working through Coursera course modules, understanding video lectures, and completing graded quizzes and peer-review assignments on time -- useful for university-mandated MOOC/certification requirements.",
+      "category": "Career & Skills",
+      "pricingType": "quote",
+      "deliveryHours": 72,
+      "requirements": "Coursera course name/link\nSubmission deadline\nHow you'd like to proceed (guided by you, or done on your behalf)",
+      "instructions": "Pricing depends on the course length and number of graded components. Share the exact course link so an accurate quote and timeline can be given.",
+      "active": true,
+      "createdAt": "2026-09-01T09:15:00.000Z"
+    },
+    {
+      "id": "svc-linkedin-learning-help",
+      "title": "LinkedIn Learning Course Help",
+      "slug": "linkedin-learning-help",
+      "shortDescription": "Assistance completing LinkedIn Learning courses and earning certificates for your profile/resume.",
+      "fullDescription": "Guidance to work through LinkedIn Learning video courses and assessments efficiently, so you can add the completion certificate to your LinkedIn profile and resume for placements and internships.",
+      "category": "Career & Skills",
+      "pricingType": "quote",
+      "deliveryHours": 48,
+      "requirements": "LinkedIn Learning course name/link\nDeadline (if any)\nWhether you want the certificate added to your profile too",
+      "instructions": "Final pricing depends on course duration. Share the course link for an accurate quote.",
+      "active": true,
+      "createdAt": "2026-09-01T09:20:00.000Z"
+    },
+    {
+      "id": "svc-resume-linkedin-profile",
+      "title": "Resume & LinkedIn Profile Help",
+      "slug": "resume-linkedin-profile",
+      "shortDescription": "Resume building and LinkedIn profile improvement for internships and placements.",
+      "fullDescription": "Help creating or improving a student resume and LinkedIn profile -- structuring sections, writing project/experience bullet points, and general presentation, tailored for internship and placement applications.",
+      "category": "Career & Skills",
+      "pricingType": "quote",
+      "deliveryHours": 48,
+      "requirements": "Current resume (if any)\nCourse/branch and year\nTarget role or internship type\nKey projects, skills, and achievements",
+      "instructions": "Share whatever draft or details you already have -- even rough notes work. You'll get a reviewed, structured version back.",
+      "active": true,
+      "createdAt": "2026-09-01T09:25:00.000Z"
+    }
+  ]
+}
